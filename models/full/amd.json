@@ -1,0 +1,15 @@
+{
+ "classes": [
+  "human",
+  "machine_speech",
+  "screening",
+  "silence",
+  "tone"
+ ],
+ "sample_rate": 8000,
+ "window_samples": 16000,
+ "input": "int16 pcm, batch x 16000",
+ "run": "runs/baseline_relabel",
+ "epoch": 11,
+ "arch": "cnn"
+}

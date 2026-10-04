@@ -1,0 +1,10 @@
+# serving and classify_wav.py
+onnxruntime
+numpy
+websockets
+# training and export (scripts/train.py needs a CUDA GPU)
+torch
+torchaudio
+pandas
+soundfile
+onnx
