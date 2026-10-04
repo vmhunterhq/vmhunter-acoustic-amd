@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+/audio/
+/data/
+/dataset/
+/cache/
+/runs/
+*.wav
+*.npy
+manifest.csv
